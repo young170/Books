@@ -6,6 +6,8 @@ My collections books
 * Algorithms
 * Coding
   * Robert C. Martin series
+  * Dijkstra
+     * https://www.cs.utexas.edu/users/EWD/welcome.html
 * Compiler
 * Currently Reading
 * Data Mining
