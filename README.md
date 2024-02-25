@@ -1,5 +1,5 @@
 # Books
-My collections books
+My collections of books
 
 ### Categories
 * Study Materials
